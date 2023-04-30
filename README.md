@@ -5,5 +5,6 @@ You'll find here :
 - 3D printed pieces schematics
 - optical cone schematics too
 
-Elektrosocks' robot :
+Elektrosocks' messy robot :
+
 ![bot](https://github.com/Agenax/Electrosocks/blob/315e0b283b213bd9c32cb67272b1c5104cc25273/bot1.png)
