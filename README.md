@@ -7,4 +7,4 @@ You'll find here :
 
 Elektrosocks' messy robot :
 
-![bot](https://github.com/Agenax/Electrosocks/blob/315e0b283b213bd9c32cb67272b1c5104cc25273/bot1.png)
+![bot](https://github.com/Agenax/Electrosocks/blob/315e0b283b213bd9c32cb67272b1c5104cc25273/robot.jpg)
