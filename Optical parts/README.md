@@ -1,4 +1,4 @@
-Here's cone's schematic. 
+Here are cone schematics. 
 
 This piece permits having a precise ball detection all around the robot from the border of the robot to 2 meters away.
 
