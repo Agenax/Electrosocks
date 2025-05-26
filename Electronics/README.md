@@ -1,7 +1,7 @@
 Here are the pcbs made for Electrosocks.
 
 You can also get them on my OSHWLAB page :
- - kicker board : https://oshwlab.com/anonymousse_1/kicker_sn_1
+ - kicker board : https://oshwlab.com/anonymousse_1/kicker-sn2
  - frame board : https://oshwlab.com/anonymousse_1/frame-eleksoc
 
 Please be aware these pcbs comport some errors. The ones I've seen are those :
